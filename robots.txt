@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://foabuhaeg.english-su.com/sitemap.xml
